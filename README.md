@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="220" height="301" alt="image" src="https://github.com/user-attachments/assets/b6596654-dcb6-44ea-a209-bf187e288350" />## Hi there 👋
 
 <!--
 **pandiperumal/pandiperumal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--><img width="220" height="301" alt="image" src="https://github.com/user-attachments/assets/92dfaa12-4ba9-4782-a634-f22147ab0016" />
+
