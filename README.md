@@ -1,5 +1,6 @@
 <img width="220" height="301" alt="image" src="https://github.com/user-attachments/assets/b6596654-dcb6-44ea-a209-bf187e288350" />
-##I KNOW TO BUILD A To-DO List, NOW HIRE ME
+I KNOW TO BUILD A TO-DO LIST 
+NOW HIRE ME!
 
 <!--
 **pandiperumal/pandiperumal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
